@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logma\\OneDrive - NAIT\\Documents\\NAIT courses\\CPSC 1012 Programming Fundamentals\\Looping Problems\\MathTutor0.4\\MathTutor0.4\\MathTutor0.4.csproj",
-      "projectName": "MathTutor0.4",
-      "projectPath": "C:\\Users\\logma\\OneDrive - NAIT\\Documents\\NAIT courses\\CPSC 1012 Programming Fundamentals\\Looping Problems\\MathTutor0.4\\MathTutor0.4\\MathTutor0.4.csproj",
+      "projectUniqueName": "C:\\Users\\logma\\OneDrive - NAIT\\Documents\\NAIT courses\\CPSC 1012 Programming Fundamentals\\Looping Problems\\MathTutor0.4\\MathTutor0.4\\math-tutor-0.4.csproj",
+      "projectName": "math-tutor-0.4",
+      "projectPath": "C:\\Users\\logma\\OneDrive - NAIT\\Documents\\NAIT courses\\CPSC 1012 Programming Fundamentals\\Looping Problems\\MathTutor0.4\\MathTutor0.4\\math-tutor-0.4.csproj",
       "packagesPath": "C:\\Users\\logma\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\logma\\OneDrive - NAIT\\Documents\\NAIT courses\\CPSC 1012 Programming Fundamentals\\Looping Problems\\MathTutor0.4\\MathTutor0.4\\obj\\",
       "projectStyle": "PackageReference",
