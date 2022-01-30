@@ -1,0 +1,16 @@
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\bin\Debug\net5.0\MathTutor0.4.exe
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\bin\Debug\net5.0\MathTutor0.4.deps.json
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\bin\Debug\net5.0\MathTutor0.4.runtimeconfig.json
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\bin\Debug\net5.0\MathTutor0.4.runtimeconfig.dev.json
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\bin\Debug\net5.0\MathTutor0.4.dll
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\bin\Debug\net5.0\ref\MathTutor0.4.dll
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\bin\Debug\net5.0\MathTutor0.4.pdb
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.csproj.AssemblyReference.cache
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.AssemblyInfoInputs.cache
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.AssemblyInfo.cs
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.csproj.CoreCompileInputs.cache
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.dll
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\ref\MathTutor0.4.dll
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.pdb
+C:\Users\logma\OneDrive - NAIT\Documents\NAIT courses\CPSC 1012 Programming Fundamentals\Looping Problems\MathTutor0.4\MathTutor0.4\obj\Debug\net5.0\MathTutor0.4.genruntimeconfig.cache
